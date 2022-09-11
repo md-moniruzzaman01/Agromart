@@ -1,6 +1,6 @@
 import React from 'react'
-import Footer from './Footer';
-import Navbar from './Navbar';
+import Footer from '../../../views/Footer';
+import Navbar from '../../../views/Navbar';
 import Header from './utilities/Head'
 
 

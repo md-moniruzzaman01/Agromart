@@ -5,7 +5,7 @@ const HomePage = () => {
     return (
         <>
           <Layout title='Agromart - Nextjs e-commerce website'>
-          <h1>hello</h1>
+          <h1>hello world </h1>
          
         </Layout>
         </>
